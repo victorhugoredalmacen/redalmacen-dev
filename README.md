@@ -1,2 +1,2 @@
-# redalmacen-dev
-Códigos fuentes de RedAlmacén
+# POS gratuito RedAlmacén
+Códigos fuentes
